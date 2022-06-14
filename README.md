@@ -19,7 +19,7 @@ In a real world scenariop this would be an independent module provided to the pr
 everything in a same module divided by packages.
 
 ## Module
-The module package contains all the business logic and the structire is as follows:
+The module package contains all the business logic and the structure is as follows:
 
 ![CronAnalyzer](https://user-images.githubusercontent.com/2378636/173332632-3a65bd44-f618-4adc-ae0c-0b53da9d8386.png)
 
